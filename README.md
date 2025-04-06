@@ -19,8 +19,14 @@ This project brings the awe-inspiring **James Webb Space Telescope (JWST)** into
 
 Coming soon: Screenshots and screen recording of the experience in action.
 
-![Screenshot 1](Assets/Screenshot/MobileDemo1.jpeg)
-![Screenshot 2](Diagrams/RoomPlan2.png)
+Explore AeroVerse XR in action:
+
+![Screenshot 1](Assets/Screenshots/MobileDemo1.jpeg)
+![Screenshot 2](Assets/Screenshot/MobileDemo2.png)
+![Intended UI/UX for VR/XR](Assets/Screenshot/XR-VR1.png)
+![Intended UI/UX for VR/XR 2](Assets/Screenshot/XR-VR2.png)
+![Architechture Diagram](Assets/Screenshot/Architecture Diagram.png)
+
 
 ## Technologies Used
 
@@ -43,7 +49,7 @@ Coming soon: Screenshots and screen recording of the experience in action.
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/your-username/jwst-ar-vuforia.git
+   git clone https://github.com/Chinmay-HS/AeroVerse-XR.githttps://github.com/your-username/jwst-ar-vuforia.git
    ```
 
 2. **Open the project in Unity**
@@ -94,7 +100,7 @@ To keep the repository size manageable:
   - Linked via cloud storage (see below)
   
 If needed, download full assets from:
-- [Google Drive Link Placeholder]
+- [https://drive.google.com/drive/folders/1Aqz_G0siHe4rLvvdinogbyCsKXfnAqaN?usp=drive_link]
 
 Add them to `Assets/HeavyAssets/` as mentioned in the documentation.
 
@@ -105,12 +111,8 @@ This project is still evolving. Feel free to:
 - Add improvements (better animations, voice narration, etc.)
 - Submit a pull request
 
-## License
-
-This project is licensed under the MIT License. You are free to use and modify it for educational and non-commercial purposes.
-
 ## Acknowledgements
 
 - NASA for JWST reference materials and design documentation
 - Unity and Vuforia for the AR platform
-- All contributors and testers involved in prototyping and field testing
+- All contributors and testers involved in prototyping and field testing.
