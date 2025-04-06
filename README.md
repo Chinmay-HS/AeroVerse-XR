@@ -2,6 +2,12 @@
 
 This project brings the awe-inspiring **James Webb Space Telescope (JWST)** into your physical environment using **Augmented Reality (AR)**. Built in Unity and powered by **Vuforia's Ground Plane (markerless tracking)**, this experience allows users to explore the JWST model, toggle component-specific annotations, and interact with UI features like exploded view, rotation, resizing, and more.
 
+## Logo
+
+Now the best logo, but we think it's cool and we are happy :)
+
+![Logo](Assets/Screenshots/Logo.jpeg)
+
 ## Features
 
 - **Markerless AR tracking** using Vuforia's Ground Plane.
@@ -17,15 +23,13 @@ This project brings the awe-inspiring **James Webb Space Telescope (JWST)** into
 
 ## Demo
 
-Coming soon: Screenshots and screen recording of the experience in action.
-
 Explore AeroVerse XR in action:
 
 ![Screenshot 1](Assets/Screenshots/MobileDemo1.jpeg)
-![Screenshot 2](Assets/Screenshots/MobileDemo2.jpg)
-![Intended UI/UX for VR/XR](Assets/Screenshots/XR-VR1.jpg)
-![Intended UI/UX for VR/XR 2](Assets/Screenshots/XR-VR2.jpg)
-![Architechture Diagram](Assets/Screenshots/Architecture Diagram.jpg)
+![Screenshot 2](Assets/Screenshots/MobileDemo2.jpeg)
+![Intended UI/UX for VR/XR](Assets/Screenshots/XR-VR1.jpeg)
+![Intended UI/UX for VR/XR 2](Assets/Screenshots/XR-VR2.jpeg)
+![Architechture Diagram](Assets/Screenshots/ArchitectureDiagram.jpg)
 
 
 ## Technologies Used
