@@ -19,19 +19,8 @@ This project brings the awe-inspiring **James Webb Space Telescope (JWST)** into
 
 Coming soon: Screenshots and screen recording of the experience in action.
 
-## Project Structure
-
-This Unity project is organized as follows:
-
-```
-Assets/
-├── Models/               # 3D model of the JWST
-├── Prefabs/              # Annotation prefab and UI prefabs
-├── Scripts/              # All MonoBehaviour scripts
-├── UI/                   # Canvas elements and UI assets
-Packages/
-ProjectSettings/
-```
+![Screenshot 1](Assets/Screenshot/MobileDemo1.jpeg)
+![Screenshot 2](Diagrams/RoomPlan2.png)
 
 ## Technologies Used
 
