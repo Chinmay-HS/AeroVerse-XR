@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: 3
+    uniqueID: 359714825
+    locked: 0
+  - name: 2
+    uniqueID: 54250667
+    locked: 0
+  - name: 1
+    uniqueID: 1099542295
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Arrow
+    uniqueID: 1816939813
     locked: 0
