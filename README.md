@@ -22,10 +22,10 @@ Coming soon: Screenshots and screen recording of the experience in action.
 Explore AeroVerse XR in action:
 
 ![Screenshot 1](Assets/Screenshots/MobileDemo1.jpeg)
-![Screenshot 2](Assets/Screenshot/MobileDemo2.jpg)
-![Intended UI/UX for VR/XR](Assets/Screenshot/XR-VR1.jpg)
-![Intended UI/UX for VR/XR 2](Assets/Screenshot/XR-VR2.jpg)
-![Architechture Diagram](Assets/Screenshot/Architecture Diagram.jpg)
+![Screenshot 2](Assets/Screenshots/MobileDemo2.jpg)
+![Intended UI/UX for VR/XR](Assets/Screenshots/XR-VR1.jpg)
+![Intended UI/UX for VR/XR 2](Assets/Screenshots/XR-VR2.jpg)
+![Architechture Diagram](Assets/Screenshots/Architecture Diagram.jpg)
 
 
 ## Technologies Used
