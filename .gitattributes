@@ -1,0 +1,5 @@
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.tgz filter=lfs diff=lfs merge=lfs -text
+Packages/com.ptc.vuforia.engine-11.0.4.tgz filter=lfs diff=lfs merge=lfs -text
+Assets/FBXs/JamesWeb.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Editor/Migration/com.ptc.vuforia.engine-11.0.4.tgz filter=lfs diff=lfs merge=lfs -text
