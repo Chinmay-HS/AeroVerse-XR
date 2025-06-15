@@ -31,6 +31,11 @@ Explore AeroVerse XR in action:
 ![Intended UI/UX for VR/XR 2](Assets/Screenshots/XR-VR2.jpeg)
 ![Architechture Diagram](Assets/Screenshots/ArchitectureDiagram.jpg)
 
+- 📽️ [Augmentation Testing Updated(ARCore)]
+<video width="640" height="360" controls>
+  <source src="https://ik.imagekit.io/nothingpong18/Augmentation_Testing.mp4?updatedAt=1750000371026" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Technologies Used
 
