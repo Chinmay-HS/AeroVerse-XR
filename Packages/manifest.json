@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.ptc.vuforia.engine": "file:com.ptc.vuforia.engine-11.0.4.tgz",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.ads": "4.4.2",
@@ -17,6 +16,10 @@
     "com.unity.timeline": "1.7.6",
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.9.4",
+    "com.unity.xr.arcore": "5.1.6",
+    "com.unity.xr.arfoundation": "5.1.6",
+    "com.unity.xr.core-utils": "2.4.0",
+    "com.unity.xr.interaction.toolkit": "2.6.4",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

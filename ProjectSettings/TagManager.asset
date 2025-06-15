@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - SpawnedPrefab
+  - XROrigin
+  - PlacementIndicator
+  - AugmentToggle
+  - PrefabDropdown
   layers:
   - Default
   - TransparentFX
@@ -35,7 +40,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - XR Simulation
   - 
   m_SortingLayers:
   - name: 3

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415389490154",
+    "project_id": "aeroverse-xr",
+    "storage_bucket": "aeroverse-xr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415389490154:android:633be15599cf9c664d7093",
+        "android_client_info": {
+          "package_name": "com.pixelabs.aeroverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw7KxJ7PUTozuvvPvCQop2BtZH4-zlmo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

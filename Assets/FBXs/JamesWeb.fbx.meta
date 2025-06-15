@@ -3,7 +3,237 @@ guid: 4740131834b872d46aa9f7d6bed33c9b
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_asm_covrcleats_hr_car_v001_blkblack_lambert
+    second: {fileID: 2100000, guid: 2098defa2d9ddd649a219482b1a95396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_asm_covrcleats_hr_car_v001_mboom_alum
+    second: {fileID: 2100000, guid: 329ae6e820982f3448d749dc21511db0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_bafl_black0_lambert
+    second: {fileID: 2100000, guid: 6dd4e60ecc07e7f4a972c64742a9fb27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_bafl_graphite
+    second: {fileID: 2100000, guid: 595dc076b74b5874ca1055c3f615fe87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_bipod_post_pmli
+    second: {fileID: 2100000, guid: e66dd27f4770f9b448f5351fe6b756a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_black0_lambert
+    second: {fileID: 2100000, guid: df7b9ea0481fa0e4ca3be132b8127583, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_blackpaint_lambert1
+    second: {fileID: 2100000, guid: 36f4e81d8d4ddb2408b2128d703272d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_blk_mli
+    second: {fileID: 2100000, guid: 8f276f5638988994489e835367a29fae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_blk_mli1
+    second: {fileID: 2100000, guid: 975127b614400ab46a649f3feac645d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_carbonfiber
+    second: {fileID: 2100000, guid: f9e92729def208540ab07ce993869801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_corecov_smli1
+    second: {fileID: 2100000, guid: d9f08233ae7e9684b8e20b6209705151, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_iec_pnkmli_sml
+    second: {fileID: 2100000, guid: d0b4825f3aefdd842b48bbf23d9ff2a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_mboom_alum
+    second: {fileID: 2100000, guid: 3775dd59bc4896a44afed1a99fc828df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_mboom_blkmli
+    second: {fileID: 2100000, guid: a8ee81aa715686d499ec17b3ac263290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_mboom_boom_pinkmli
+    second: {fileID: 2100000, guid: b4ea224d2b374144b991ff7e9531932a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_mboom_boom_pinkmli1
+    second: {fileID: 2100000, guid: 9595b854cb850d8428fde6da4c5a9a02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_mboom_sml_pinkmli
+    second: {fileID: 2100000, guid: eecf8744303d74c489f490053c9a301a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_mboom_sml_pinkmli1
+    second: {fileID: 2100000, guid: 3ce2e50d24c697f418b444ea872edbbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_mboon_silvermli
+    second: {fileID: 2100000, guid: dcd06e55297861441b4d605ba20b862f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_mirror_blinn
+    second: {fileID: 2100000, guid: ea51d9e5c0584d54c83cb2bcbde91fa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_omnimirror_blinn
+    second: {fileID: 2100000, guid: b8bd12eab09cf4d4ebf3008e401d846d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_paintedblack
+    second: {fileID: 2100000, guid: 887711df9d0980043bbcb048f8a6bcf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_pinkmli
+    second: {fileID: 2100000, guid: 9a50f284f6abd5c48b3ec579e0a4a3c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_prop_alum
+    second: {fileID: 2100000, guid: 34fc855912468554da033520100b6ab3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_prop_drkalum_blin
+    second: {fileID: 2100000, guid: 9893acb47cbc7a1409850d3c08439271, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_sa_edge_gold
+    second: {fileID: 2100000, guid: 608b329d389612f42bbe921b09d55301, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_sa_edge_gold1
+    second: {fileID: 2100000, guid: 9ea8890bc4e05e74090dc2033a80784d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_sacells_blinn
+    second: {fileID: 2100000, guid: 985d367a150cab14584ea93af6b92901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_sc_panels_pmli
+    second: {fileID: 2100000, guid: f763b50e84037a24f90335a72fa01b83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_sc_panels_pmli1
+    second: {fileID: 2100000, guid: 483b6e2eeaf654f42ae8662d0fea2417, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_sc_post_pmli
+    second: {fileID: 2100000, guid: a21382520320e2d4082b246b3447af6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_sc_post_pmli1
+    second: {fileID: 2100000, guid: 909882da0a31820448d81f7479ab6386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_sc_rad_smli
+    second: {fileID: 2100000, guid: bd359f843d89f7f4383a54de049c3634, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_sc_rad_smli1
+    second: {fileID: 2100000, guid: aa221ce8d1a82924fbf69dc1b330e826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_sc_ring_ssm
+    second: {fileID: 2100000, guid: 2690b530713f2c4468af1b322c7d6fab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_sc_sml_pmli
+    second: {fileID: 2100000, guid: 19dff84297045a841958a10c4f1e3b64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_sc_sml_pmli1
+    second: {fileID: 2100000, guid: 1a10da0c3d5025d489bd0dc6ada1e1b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_shld_pink1
+    second: {fileID: 2100000, guid: cf9b7b4f9454c484a9b0ce850b66bbb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_shld_silv1
+    second: {fileID: 2100000, guid: 365d7919630b2da4fba3159ed18cf711, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_silver_mli
+    second: {fileID: 2100000, guid: 39bc3886fa5451242bcb3c9b216351d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_silver_mli1
+    second: {fileID: 2100000, guid: 45faf08d45abf3b43afcc30eb2585fac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_straylgt_blkmli
+    second: {fileID: 2100000, guid: bc83087fbf549184599652a11cd7c753, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_tower_blkmli_tubes
+    second: {fileID: 2100000, guid: 643a12214618ca34c91ccd9e157123a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_twr_blkmli
+    second: {fileID: 2100000, guid: aef4c95ba4e55e3499ee81fa5fd431a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JWST_a1_whitepaint_lambert
+    second: {fileID: 2100000, guid: 82abf3c179f9a334eb86f3dfcb3188e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface1
+    second: {fileID: 2100000, guid: eaf2e4ac37dead6419dbebd38985b4de, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -6,6 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/JamesWebbTelescopeMarkerless.unity
+    path: Assets/Scenes/Application/MainMenuScene.unity
+    guid: 220b7e672ca8443a8967bd6dff1d328c
+  - enabled: 1
+    path: Assets/Scenes/Application/AboutUS.unity
+    guid: 140c0eddcf53e4b66b24c69c89b10356
+  - enabled: 1
+    path: Assets/Scenes/Application/ARMode.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/Application/TechStuff.unity
+    guid: 8b0d018491f4044cbb60069f6197e6de
+  - enabled: 1
+    path: Assets/Scenes/Authentication/LogIn.unity
+    guid: 8e3593925573e4d9e9676a08574dc183
+  - enabled: 1
+    path: Assets/Scenes/Authentication/SignUp.unity
+    guid: 2358c91b36e1f43cc8044c6a0c63b652
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 74f418e08912358439ae15b3a7978ad7,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 63d98b9376ffad743ba622355fc1944b,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b53d63a7ed1dddd438a72d06c1a2a316,
+      type: 2}
