@@ -31,7 +31,13 @@ Explore AeroVerse XR in action:
 ![Intended UI/UX for VR/XR 2](Assets/Screenshots/XR-VR2.jpeg)
 ![Architechture Diagram](Assets/Screenshots/ArchitectureDiagram.jpg)
 
-[![Watch Augmentation Testing Video](https://ik.imagekit.io/nothingpong18/protoyping?updatedAt=1750001930073)](https://ik.imagekit.io/nothingpong18/Augmentation_Testing.mp4?updatedAt=1750000371026)
+[Sign Up] 
+
+https://github.com/user-attachments/assets/6f4d14d9-b3cd-498a-bb67-d01f1b9642b7
+
+
+[![Watch Augmentation Testing Video]
+
 
 
 ## Technologies Used
