@@ -1,6 +1,12 @@
 # AeroVerse XR - By Pixel Labs
 
-This project brings the awe-inspiring **James Webb Space Telescope (JWST)** into your physical environment using **Augmented Reality (AR)**. Built in Unity and powered by **ARCore's Ground Plane (markerless tracking)**, this experience allows users to explore the JWST model, toggle component-specific annotations, and interact with UI features like exploded view, rotation, resizing, and more.
+This project brings aerospace technology to life in your physical environment using **Augmented Reality (AR)**. Built with Unity and powered by **ARCore’s Ground Plane detection (markerless surface tracking)**, the application currently features interactive AR experiences of:
+
+- **James Webb Space Telescope (JWST)**
+- **TurboJet Engine**
+- **Starlink Satellite**
+
+Users can explore each 3D model with interactive features such as **component-specific annotations**, **exploded view mode**, **rotation**, **resizing**, and more. Additional aerospace components are currently in development and will be added in future updates.
 
 ## Logo
 
